@@ -1,0 +1,15 @@
+D:\папка\HW_lesson2\HW13\bin\Debug\net6.0\HW13.exe
+D:\папка\HW_lesson2\HW13\bin\Debug\net6.0\HW13.deps.json
+D:\папка\HW_lesson2\HW13\bin\Debug\net6.0\HW13.runtimeconfig.json
+D:\папка\HW_lesson2\HW13\bin\Debug\net6.0\HW13.dll
+D:\папка\HW_lesson2\HW13\bin\Debug\net6.0\HW13.pdb
+D:\папка\HW_lesson2\HW13\obj\Debug\net6.0\HW13.csproj.AssemblyReference.cache
+D:\папка\HW_lesson2\HW13\obj\Debug\net6.0\HW13.GeneratedMSBuildEditorConfig.editorconfig
+D:\папка\HW_lesson2\HW13\obj\Debug\net6.0\HW13.AssemblyInfoInputs.cache
+D:\папка\HW_lesson2\HW13\obj\Debug\net6.0\HW13.AssemblyInfo.cs
+D:\папка\HW_lesson2\HW13\obj\Debug\net6.0\HW13.csproj.CoreCompileInputs.cache
+D:\папка\HW_lesson2\HW13\obj\Debug\net6.0\HW13.dll
+D:\папка\HW_lesson2\HW13\obj\Debug\net6.0\refint\HW13.dll
+D:\папка\HW_lesson2\HW13\obj\Debug\net6.0\HW13.pdb
+D:\папка\HW_lesson2\HW13\obj\Debug\net6.0\HW13.genruntimeconfig.cache
+D:\папка\HW_lesson2\HW13\obj\Debug\net6.0\ref\HW13.dll
